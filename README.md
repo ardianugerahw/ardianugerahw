@@ -1,17 +1,80 @@
-# Halo semua! 
+<div align="center">
 
-Perkenalkan nama saya **Ardi Anugerah Wicaksana**.<br>
+# Ardi Anugerah Wicaksana
 
-Saya seorang **Front-End Web Student** di [Dicoding](https://www.dicoding.com/).<br>
+**Full Stack Developer** · Indonesia 🇮🇩
 
-Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/ardianugerahwicaksana/)ku ya.
+[📧 Email](mailto:ardianugerahw@email.com) · [🐦 Twitter](https://twitter.com/ardianugerahw) · [💼 LinkedIn](https://linkedin.com/in/ardianugerahw) · [🌐 Portfolio](https://ardianugerahw.dev)
 
+</div>
 
-## Github Statistic
-<p align="left">
-<a href="https://github.com/ardianugerahw">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ardianugerahw&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ardianugerahw&layout=compact&theme=algolia"/>
-</a>
-</p>
+---
 
+<table>
+<tr>
+<td width="50%">
+
+### 👨‍💻 Who am I?
+Full stack developer passionate about building products that people actually use. I enjoy the whole stack — from pixel-perfect UIs to optimized database queries.
+
+- 🔭 Currently building **[Legal Documentation and Information Network Website at Kementerian PANRB](https://jdih.menpan.go.id/)**
+- 🌱 Learning **Frontend & Backend web**
+- 💬 Ask me about **PHP, Node.js, or anything web**
+- ⚡ Fun fact: **My code works on the first try (sometimes)**
+
+</td>
+<td width="50%">
+
+### 🎯 Currently Vibing With
+
+```json
+{
+  "frontend": ["PHP", "Laravel", "Tailwind", "Daisy UI", "Vite"],
+  "backend":  ["Node.js", "Yii", "Filament", "Express.js"],
+  "database": ["MySQL"],
+  "devops":   ["Gitlab CI/CD","Github CI/CD"],
+  "mood":     "☕ → 💻 → 🚀"
+}
+```
+
+</td>
+</tr>
+</table>
+
+---
+
+### 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%">
+
+**Kulturama**  
+Digital platform dedicated to introducing Indonesia's rich culture to the wider public. 
+
+![JS](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Canvas](https://img.shields.io/badge/-Canvas_API-FF6B6B?style=flat-square)
+
+</td>
+<td width="50%">
+
+**Expert Submission**  
+Final expert submission for the Dicoding Frontend-Backend Developer program  
+
+![JS](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Canvas](https://img.shields.io/badge/-Canvas_API-FF6B6B?style=flat-square)
+
+</td>
+</tr>
+</table>
+
+---
+### 🚀 Github Statistic
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=ardianugerahw&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ardianugerahw&theme=tokyonight&hide_border=true" />
+
+</div>
